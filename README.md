@@ -27,6 +27,8 @@ python manage.py runserver
 
 Login to the site by visiting the following in a web browser: http://127.0.0.1:8000/admin/
 
+Navigate to the api directory: http://127.0.0.1:8000/api/
+
 ## Misc
 
 Commands used to create this project
